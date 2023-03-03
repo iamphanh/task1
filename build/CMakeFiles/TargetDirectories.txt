@@ -1,0 +1,3 @@
+/home/phanh/task1/build/CMakeFiles/lession1.dir
+/home/phanh/task1/build/CMakeFiles/edit_cache.dir
+/home/phanh/task1/build/CMakeFiles/rebuild_cache.dir

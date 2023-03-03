@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -rdynamic CMakeFiles/lession1.dir/src/Worker.cc.o CMakeFiles/lession1.dir/src/act.cc.o CMakeFiles/lession1.dir/src/one.cc.o CMakeFiles/lession1.dir/src/task1.cc.o CMakeFiles/lession1.dir/src/two.cc.o -o lession1  -lstdc++ 
